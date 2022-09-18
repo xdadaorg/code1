@@ -58,4 +58,4 @@ int main()
 }
 ```
 ## 效果就是这样
-![alt txet010](https://xdadaorg.github.io/QWQ.jpeg)
+![alt txet010](https://xdadaorg.github.io/code1/QWQ.jpeg)
